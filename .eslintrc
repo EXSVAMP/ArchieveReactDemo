@@ -1,0 +1,9 @@
+{
+    "plugins": [
+        "react"
+    ],
+    "extends": "airbnb",
+    "rules": {
+       "no-set-state": "off"
+    }
+}
